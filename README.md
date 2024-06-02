@@ -14,6 +14,8 @@
 
 ---
 
-![Ravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravinrau&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&title_color=49e0ff&icon_color=49e0ff&text_color=49e0ff) ![Ravin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ravinrau&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=49e0ff&sideLabels=49e0ff&title_color=49e0ff&stroke=49e0ff)
+| ![Ravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravinrau&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&title_color=49e0ff&icon_color=49e0ff&text_color=49e0ff) | ![Ravin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ravinrau&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=49e0ff&sideLabels=49e0ff&title_color=49e0ff&stroke=49e0ff) |
+| :---: | :---: |
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravinrau&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&hide_border=true&langs_count=10&title_color=49e0ff&text_color=49e0ff)
 
