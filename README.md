@@ -1,7 +1,7 @@
 ![Github Space](https://github.com/RavinRau/ravinrau/assets/12477629/a15dcf3b-5f16-449b-b682-d7a2690d433f)
 
 <h1 align="center">Hi 👋, I'm Ravin Rau</h1>
-<h3 align="center">Love frontend and animating websites.</h3>
+<h3 align="center">Love frontend and animating websites...</h3>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
