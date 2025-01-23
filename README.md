@@ -17,7 +17,7 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravinrau&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&hide_border=true&langs_count=10&title_color=49e0ff&text_color=49e0ff)| |
 | :---: | :---: |
 
-[![roadmap.sh](https://roadmap.sh/card/tall/669b40e59a21cb3c685b064c?variant=dark)](https://roadmap.sh) <a href="https://app.daily.dev/ravinrau"><img src="https://api.daily.dev/devcards/v2/W8z20g6jtfHbtCF6QeYRl.png?type=default&r=vt7" width="280" alt="Ravin Rau's Dev Card"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/669b40e59a21cb3c685b064c?variant=dark)](https://roadmap.sh) <a href="https://app.daily.dev/ravinrau"><img src="./devcard.png" width="280" alt="Ravin Rau's Dev Card"/></a>
 
 
 
